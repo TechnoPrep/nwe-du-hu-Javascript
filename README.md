@@ -8,7 +8,7 @@ Motivation / Inspiration:
 
 ## Screenshot
 
-![Nathaniel Password Generator](#)
+![Nathaniel Password Generator](https://github.com/TechnoPrep/nwe-du-hu-Javascript/blob/main/Screenshots/password_gen_website.png)
 
 ## Website Address
 
